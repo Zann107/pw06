@@ -1,0 +1,122 @@
+body, html{
+	background-image: url(https://juegosrev.com/wp-content/uploads/2017/06/Wallpapers-Adventure-Time-Gallery-87-Plus-PIC-WPW103421.jpg?w=243&h=152);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+
+}
+
+
+
+#grid{
+	position: relative;
+	margin: 0 auto;
+}
+
+
+
+
+
+#boxdate{
+	border: 5px solid black;
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+
+}
+
+#day{
+	border: 5px solid green;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	min-height: 50px;
+	min-width: 45px;
+	font-size: 42px;
+}
+
+#hour{
+	border: 5px solid blue;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	min-height: 50px;
+	min-width: 45px;
+	font-size: 42px;
+}
+
+#min{
+	border: 5px solid pink;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	min-height: 50px;
+	min-width: 45px;
+	font-size: 42px;
+}
+
+#second{
+	border: 5px solid red;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	min-height: 50px;
+	min-width: 45px;
+	font-size: 42px;
+}
+
+#playstop{
+	border: 5px solid yellow;
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+}
+
+#reset{
+	border: 5px solid yellow;
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+}
+.box{
+	border: 5px solid black;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+
+#lolo{
+	border: 5px solid yellow ;
+	min-height: 20px;
+	min-width: 30px;
+}
+
+#timer{
+	border: 5px solid black;
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto
+
+}
+h1{
+	text-align: center;
+}
+
+#valuser{
+	border:5px solid blue;
+
+}
+
+.megalo{
+	border: 5px solid red;
+	margin: 0 auto;
+}
+
+.infotxt{
+	border: 5px solid red;
+	text-align: center;
+}
