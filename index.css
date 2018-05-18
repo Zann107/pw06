@@ -116,7 +116,7 @@ h1{
 	margin: 0 auto;
 }
 
-.infotxt{
-	border: 5px solid red;
+.text{
 	text-align: center;
+	font-size: 30px;
 }
